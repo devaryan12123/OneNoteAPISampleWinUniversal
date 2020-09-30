@@ -86,7 +86,7 @@ For using emulator (Windows Phone), make sure to enable hyper-v
 * You can get a full list of tools needed to build Universal Windows app [here](http://dev.windows.com/en-us/develop/downloads)
 
 ** O365 specific Pre-requisites
-* What you need to do is to go to Programs and Features, Turn on/off Windows features and then choose to add Windows Identity Foundation 3.5 to your system.
+* You need to go to Programs and Features, Turn on/off Windows features and then choose to add Windows Identity Foundation 3.5 to your system.
 
 * **NuGet packages** used in the sample. These are handled using the package 
 manager, as described in the setup instructions. These should update 
